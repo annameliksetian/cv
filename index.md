@@ -1,8 +1,9 @@
 _Data Analyst / Market Research Analyst / Project Manager_  
 
-*Citizen of Armenia, legally residing in Poland as a doctoral student. Eligible to work in Poland without restrictions.*
+*Kraków, Poland. Citizen of Armenia permitted to work in Poland without restrictions.*
 
-- **Email:** msumeliksetian@gmail.com 
+- **Email:** msumeliksetian@gmail.com
+- **Phone number:** +48 577 610 801
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
