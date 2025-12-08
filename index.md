@@ -16,19 +16,19 @@ Expert in survey design, data quality assurance, and up-to-date statistical anal
 
 ### PhD Researcher
 **Jagiellonian University • 2021 - present** 
-• Implemented several large-scale research projects: secured international grants, led project documentation and risk mitigation, collected and analysed experimental data.
-• Coordinated multi-country testing (Poland, US, Armenia), including participant recruitment,survey design, quotas, and data QC across Qualtrics, Gorilla, Prolific, and in-lab tools.
-• Managed cross-functional collaboration with UC Irvine, MIT, University of Reading and supervised assistants responsible for data coding.
+- Implemented several large-scale research projects: secured international grants, led project documentation and risk mitigation, collected and analysed experimental data.
+- Coordinated multi-country testing (Poland, US, Armenia), including participant recruitment,survey design, quotas, and data QC across Qualtrics, Gorilla, Prolific, and in-lab tools.
+- Managed cross-functional collaboration with UC Irvine, MIT, University of Reading and supervised assistants responsible for data coding.
 
 ### Metrics Analyst / Market Research Analyst (training) / Product Administrator / Methodologist 
 **LLC "Foxford" • 2019 - 2021** 
 
 *Foxford is a large EdTech company and LMS platform with 3.5M registered students and 350K teachers.*
 
-• Led end-to-end development of a novel product: conducted competitor analysis, market sizing, and user interest estimation.
-• Presented research insights to stakeholders, shaped the product concept, supervised content creation, and collaborated with product teams.
-• Conducted qualitative (custdevs) and quantitative (surveys) research to evaluate user needs, understand behaviour patterns, and define KPIs.
-• Ran helpdesk communications for educators and provided expert support to users.
+- Led end-to-end development of a novel product: conducted competitor analysis, market sizing, and user interest estimation.
+- Presented research insights to stakeholders, shaped the product concept, supervised content creation, and collaborated with product teams.
+- Conducted qualitative (custdevs) and quantitative (surveys) research to evaluate user needs, understand behaviour patterns, and define KPIs.
+- Ran helpdesk communications for educators and provided expert support to users.
 
 ## Education  
 **PhD candidate, Cognitive Neuroscience**  
@@ -41,11 +41,11 @@ Lomonosov Moscow State University, Russia (2017 – 2019)
 Russian State University for the Humanities, Russia (2013 – 2017)
 
 ## Selected Grants & Projects
-**NCN OPUS / SONATA (Poland):** Large-scale psycholinguistic project; responsible for experimental design, participant recruitment (300+), data QC, multi-platform research implementation (Qualtrics, E-prime), data coding, data analysis.
+**NCN OPUS / SONATA (Poland):** Large-scale psycholinguistic project; responsible for multi-platform research design (Qualtrics, E-prime), participant recruitment (300+), data QC, data coding and analysis.
    
-**Calouste Gulbenkian Foundation (Portugal):** Full-cycle management of a standardization of a research tool in cooperation with University of Reading, UK; responsible for experimental design, participant recruitment (100+), data QC, multi-platform research implementation (Qualtrics, Prolific, Gorilla), data coding, data analysis.
+**Calouste Gulbenkian Foundation (Portugal):** Full-cycle management of a standardization of a research tool in cooperation with University of Reading, UK; design (Qualtrics, Prolific, Gorilla), recruitment (100+), data QC, data coding and analysis.
    
-**Excellence Initiative at UJ (Poland):** Assessed migrant populations in Poland compared to the US and coordinated international research logistics; in cooperation with UC Irvine, US; responsible for experimental design, participant recruitment (90+), data QC, multi-platform research implementation (Qualtrics, E-prime), data coding, data analysis.
+**Excellence Initiative at UJ (Poland):** Assessed migrant populations in Poland compared to the US and coordinated international research logistics in cooperation with UC Irvine, US; design (Qualtrics, E-prime), recruitment (90+), data QC, data coding anddata analysis.
 
 ## Volunteering & Service
 **Ad hoc Reviewer, International Journal of Cognitive Science:**  Evaluated methodology, statistical validity & theoretical contribution.
@@ -60,7 +60,7 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 
 **Experimental design:** Qualtrics, Prolific, Gorilla, E-prime, OpenSesame, GetResponse.
 
-**Data analysis and programming***: R (advanced), SQL (basic), HTML/CSS (basic), SPSS, JASP.
+**Data analysis and programming**: R (advanced), SQL (basic), HTML/CSS (basic), SPSS, JASP.
 
 **Communication**: Report writing, QBR-style presentations, advisory conversations (Google Slides, PowerPoint, Keynote).
 
