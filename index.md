@@ -1,5 +1,3 @@
-<img src="assets/photo.jpg" alt="My photo" width="200" style="border-radius: 10%;">
-
 _Data Analyst / Market Research Analyst / Project Manager_  
 
 *Citizen of Armenia, legally residing in Poland as a doctoral student. Eligible to work in Poland without restrictions.*
@@ -69,10 +67,10 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 **Other**: GitHub, Jira, Planfix, MS Office.
 
 ## Languages
-- Russian (native speaker)
-- Armenian (native spreaker, limited proficiency)
 - English (C2)
 - Polish (C1)
+- Russian (native speaker)
+- Armenian (native spreaker, limited proficiency)
 
 ## Contact  
 Thank you for considering my candidacy. You can reach me via email (msumeliksetian@gmail.com) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
