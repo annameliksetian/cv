@@ -20,7 +20,7 @@ Expert in survey design, data quality assurance, and up-to-date statistical anal
 - Coordinated multi-country testing (Poland, US, Armenia), including participant recruitment,survey design, quotas, and data QC across Qualtrics, Gorilla, Prolific, and in-lab tools.
 - Managed cross-functional collaboration with UC Irvine, MIT, University of Reading and supervised assistants responsible for data coding.
 
-### Metrics Analyst / Market Research Analyst (training) / Product Administrator / Methodologist 
+### Metrics Analyst / Market Research Analyst (training) / Product Administrator
 **LLC "Foxford" • 2019 - 2021** 
 
 *Foxford is a large EdTech company and LMS platform with 3.5M registered students and 350K teachers.*
