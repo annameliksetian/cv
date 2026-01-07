@@ -44,7 +44,7 @@ Russian State University for the Humanities, Russia (2013 – 2017)
    
 **Calouste Gulbenkian Foundation (Portugal):** Full-cycle management of a standardization of a research tool in cooperation with University of Reading, UK; design (Qualtrics, Prolific, Gorilla), recruitment (100+), data QC, data coding and analysis.
    
-**Excellence Initiative at UJ (Poland):** Assessed migrant populations in Poland compared to the US and coordinated international research logistics in cooperation with UC Irvine, US; design (Qualtrics, E-prime), recruitment (90+), data QC, data coding anddata analysis.
+**Excellence Initiative at UJ (Poland):** Assessed migrant populations in Poland compared to the US and coordinated international research logistics in cooperation with UC Irvine, US; design (Qualtrics, E-prime), recruitment (90+), data QC, data coding and data analysis.
    
 ## Volunteering & Service
 **Ad hoc Reviewer, International Journal of Cognitive Science:**  Evaluated methodology, statistical validity & theoretical contribution.
