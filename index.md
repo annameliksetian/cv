@@ -1,4 +1,4 @@
-_Data Analyst / Market Research Analyst / Project Manager_  
+_Data Scientist / Data Analyst / Market Research Analyst_  
 
 *Kraków, Poland. Citizen of Armenia permitted to work in Poland without restrictions.*
 
@@ -59,7 +59,7 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 
 **Experimental design:** Qualtrics, Prolific, Gorilla, E-prime, OpenSesame, GetResponse.
 
-**Data analysis and programming**: R (advanced), SQL (basic), HTML/CSS (basic), SPSS, JASP.
+**Data analysis and programming**: R (advanced), SQL, Python (basic), HTML (basic), SPSS, JASP.
 
 **Communication**: Report writing, QBR-style presentations, advisory conversations (Google Slides, PowerPoint, Keynote).
 
