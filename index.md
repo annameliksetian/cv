@@ -1,3 +1,5 @@
+<img src="assets/photo1.jpg" alt="My photo" width="200" style="border-radius: 10%;">
+
 _Data Scientist / Data Analyst / Market Research Analyst_  
 
 *Kraków, Poland. Citizen of Armenia permitted to work in Poland without restrictions.*
@@ -7,9 +9,9 @@ _Data Scientist / Data Analyst / Market Research Analyst_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-4+ years of experience in Data Analysis, Market Research, and Project Management. Led complex research projects and managed multi-country collaborators across academia and business sector. 
+4+ years of experience in Data Science, Data Analysis, Market Research, and Project Management. Led complex research projects and managed multi-country collaborators across academia and business sector. 
 
-Expert in survey design, data quality assurance, and up-to-date statistical analysis.
+Expert in experimental design, data quality assurance, and up-to-date statistical analysis.
 
 ## Work Experience 
 
@@ -85,4 +87,4 @@ Thank you for considering my candidacy. You can reach me via email (msumelikseti
 
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
   
-Last updated on Dec 8, 2025
+Last updated on Feb 2, 2026
