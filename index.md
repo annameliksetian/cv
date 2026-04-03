@@ -9,13 +9,22 @@ _Data Scientist / Data Analyst / Market Research Analyst_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-4+ years of experience in Data Science, Data Analysis, Market Research, and Project Management. Led complex research projects and managed multi-country collaborators across academia and business sector. 
+4+ years of experience in Research, Data Analysis, and Project Management. Led complex research projects and managed multi-country collaborators across academia and business sector. 
 
 Expert in experimental design, data quality assurance, and up-to-date statistical analysis.
 
 ## Work Experience 
 
-### PhD Researcher
+### Senior Specialist / Coordinator of the Research and Evaluation Process
+**Copernicus Science Center • 2026 - present** 
+
+*[ZBADAI project](https://www.kopernik.org.pl/projekty-dofinansowane/zbadai-projekt-edukacyjny), Department for Research on Competencies of the Future*  
+
+- Developed the research plan and the evaluation system for the ZBADAI project.
+- Conducted a needs assessment for schools and teachers participating in the project.
+- Managed the research budget, planning the schedule, and coordinating cooperation with external contractors.
+
+### PhD Researcher / Cognitive Neuroscience
 **Jagiellonian University • 2021 - present** 
 - Implemented several large-scale research projects: secured international grants, led project documentation and risk mitigation, collected and analysed experimental data.
 - Coordinated multi-country testing (Poland, US, Armenia), including participant recruitment,survey design, quotas, and data QC across Qualtrics, Gorilla, Prolific, and in-lab tools.
@@ -33,7 +42,7 @@ Expert in experimental design, data quality assurance, and up-to-date statistica
 
 ## Education  
 **PhD candidate, Cognitive Neuroscience**  
-Jagiellonian University, Poland (2021 – 2026)  
+Jagiellonian University, Poland (2021 – present)  
 
 **MSc, Theoretical and Experimental Psychology** (with honors)  
 Lomonosov Moscow State University, Russia (2017 – 2019)
@@ -87,4 +96,4 @@ Thank you for considering my candidacy. You can reach me via email (msumelikseti
 
 *Meliksetian.* **Usage of children’s literature as the foundation of an art therapy program with children under state care: a review of experience** (in Russian). Scientific Journal “The Young Scientist”, 22.1, 143–146, 2015, ISSN 2072-0297, [link](https://moluch.ru/archive/102/23234/)
   
-Last updated on Feb 2, 2026
+Last updated on Apr 3, 2026
