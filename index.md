@@ -2,7 +2,7 @@
 
 _Data Scientist / Data Analyst / Market Research Analyst_  
 
-*Kraków, Poland. Citizen of Armenia permitted to work in Poland without restrictions.*
+*Kraków, Poland.*
 
 - **Email:** msumeliksetian@gmail.com
 - **Phone number:** +48 577 610 801
@@ -38,7 +38,6 @@ Expert in experimental design, data quality assurance, and up-to-date statistica
 - Led end-to-end development of a novel product: conducted competitor analysis, market sizing, and user interest estimation.
 - Presented research insights to stakeholders, shaped the product concept, supervised content creation, and collaborated with product teams.
 - Conducted qualitative (custdevs) and quantitative (surveys) research to evaluate user needs, understand behaviour patterns, and define KPIs.
-- Ran helpdesk communications for educators and provided expert support to users.
 
 ## Education  
 **PhD candidate, Cognitive Neuroscience**  
@@ -85,7 +84,7 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 - Armenian (native spreaker, limited proficiency)
   
 ## Contact  
-Thank you for considering my candidacy. You can reach me via email (msumeliksetian@gmail.com) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
+You can reach me via email (msumeliksetian@gmail.com) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
   
 ## Publications  
 *Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition, 2025 (in principle acceptance).
